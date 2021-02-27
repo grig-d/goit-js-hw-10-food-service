@@ -51,27 +51,27 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>javascript-homework/README.md at master · goitacademy/javascript-homework</title>
-    <meta name="description" content="Contribute to goitacademy/javascript-homework development by creating an account on GitHub.">
+  <title>goit-js-hw-10-food-service/README.md at main · sgcruiser/goit-js-hw-10-food-service</title>
+    <meta name="description" content="Contribute to sgcruiser/goit-js-hw-10-food-service development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/46345815?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="goitacademy/javascript-homework" /><meta name="twitter:description" content="Contribute to goitacademy/javascript-homework development by creating an account on GitHub." />
-    <meta property="og:image" content="https://avatars.githubusercontent.com/u/46345815?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="goitacademy/javascript-homework" /><meta property="og:url" content="https://github.com/goitacademy/javascript-homework" /><meta property="og:description" content="Contribute to goitacademy/javascript-homework development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/60856278?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="sgcruiser/goit-js-hw-10-food-service" /><meta name="twitter:description" content="Contribute to sgcruiser/goit-js-hw-10-food-service development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/60856278?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="sgcruiser/goit-js-hw-10-food-service" /><meta property="og:url" content="https://github.com/sgcruiser/goit-js-hw-10-food-service" /><meta property="og:description" content="Contribute to sgcruiser/goit-js-hw-10-food-service development by creating an account on GitHub." />
 
 
 
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/68034563/ws?session=eyJ2IjoiVjMiLCJ1Ijo2ODAzNDU2MywicyI6NjI5MTE5MzgwLCJjIjo0MDU1Mzk4NzkyLCJ0IjoxNjE0NDUwNTQ0fQ==--eb6e57ee9ca2e0351e91ffcdd40cfb6cfef986858386be5adace9f6aaae7bb62" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/68034563/ws?session=eyJ2IjoiVjMiLCJ1Ijo2ODAzNDU2MywicyI6NjI5MTE5MzgwLCJjIjozODgzNDkyOCwidCI6MTYxNDQ1MDg3NH0=--abb458d41c8d361bd50c4182dfa953760e664382999224def3c0bb2ced49a032" data-refresh-url="/_alive">
     <link rel="shared-web-socket-src" href="/socket-worker-5029ae85.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="CFEF:CD5D:27E2B:C000A:603A8F64" data-pjax-transient="true" /><meta name="html-safe-nonce" content="14b8ff74558cc4d5ad39e1674f4ce78d03f8641fb636ad8dd5db1ebc5bebd9ae" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9nb2l0YWNhZGVteS9qYXZhc2NyaXB0LWhvbWV3b3JrL3RyZWUvbWFzdGVyL2hvbWV3b3JrLTEwIiwicmVxdWVzdF9pZCI6IkNGRUY6Q0Q1RDoyN0UyQjpDMDAwQTo2MDNBOEY2NCIsInZpc2l0b3JfaWQiOiI2NDE2MDg1Nzc3NzQwNzcwMDQ5IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="de7b509a97a27cddcdfea4a7b139a3aec040790cead1c730345c81260c2e32ba" data-pjax-transient="true" />
+  <meta name="request-id" content="CFEF:CD5D:28207:C0C4D:603A90B0" data-pjax-transient="true" /><meta name="html-safe-nonce" content="14b8ff74558cc4d5ad39e1674f4ce78d03f8641fb636ad8dd5db1ebc5bebd9ae" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zZ2NydWlzZXIvZ29pdC1qcy1ody0xMC1mb29kLXNlcnZpY2UiLCJyZXF1ZXN0X2lkIjoiQ0ZFRjpDRDVEOjI4MjA3OkMwQzREOjYwM0E5MEIwIiwidmlzaXRvcl9pZCI6IjY0MTYwODU3Nzc3NDA3NzAwNDkiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="201b2b8aa740b3f9298958ad8ae642b5d4e4bfc2fac4b25759b214ecf3cfb8b3" data-pjax-transient="true" />
 
-    <meta name="hovercard-subject-tag" content="repository:187316928" data-pjax-transient>
+    <meta name="hovercard-subject-tag" content="repository:333174274" data-pjax-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
@@ -108,22 +108,22 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="OTM0MDVmMDk1NWY4OWUzN2ZiN2QyMjI5NzZmYjlkZjZiMDE2OGYyNmM3Mzg0NGEzZjlmMjU4ZjhhOGI2MmE3NHx7InJlbW90ZV9hZGRyZXNzIjoiMzcuMjI5LjU4LjYyIiwicmVxdWVzdF9pZCI6IkNGRUY6Q0Q1RDoyN0UyQjpDMDAwQTo2MDNBOEY2NCIsInRpbWVzdGFtcCI6MTYxNDQ1MDU0NCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="ZjQ1NmVhZDNkMTNlMTRlODE5MDY0NjIyNWFiMWU1OWJhNzNkMDk2OTEwMTllOGIyM2Q2YTMwZmE1ODA5NmM0ZHx7InJlbW90ZV9hZGRyZXNzIjoiMzcuMjI5LjU4LjYyIiwicmVxdWVzdF9pZCI6IkNGRUY6Q0Q1RDoyODIwNzpDMEM0RDo2MDNBOTBCMCIsInRpbWVzdGFtcCI6MTYxNDQ1MDg3NCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS">
 
   <meta http-equiv="x-pjax-version" content="aa49ef479f2c4d741f061f1a96ea6d82b0871ac064e381abb0b2728d41d57aa5">
   
 
-        <link href="https://github.com/goitacademy/javascript-homework/commits/master.atom" rel="alternate" title="Recent Commits to javascript-homework:master" type="application/atom+xml">
+        <link href="https://github.com/sgcruiser/goit-js-hw-10-food-service/commits/main.atom" rel="alternate" title="Recent Commits to goit-js-hw-10-food-service:main" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/goitacademy/javascript-homework git https://github.com/goitacademy/javascript-homework.git">
+  <meta name="go-import" content="github.com/sgcruiser/goit-js-hw-10-food-service git https://github.com/sgcruiser/goit-js-hw-10-food-service.git">
 
-  <meta name="octolytics-dimension-user_id" content="46345815" /><meta name="octolytics-dimension-user_login" content="goitacademy" /><meta name="octolytics-dimension-repository_id" content="187316928" /><meta name="octolytics-dimension-repository_nwo" content="goitacademy/javascript-homework" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="187316928" /><meta name="octolytics-dimension-repository_network_root_nwo" content="goitacademy/javascript-homework" />
+  <meta name="octolytics-dimension-user_id" content="60856278" /><meta name="octolytics-dimension-user_login" content="sgcruiser" /><meta name="octolytics-dimension-repository_id" content="333174274" /><meta name="octolytics-dimension-repository_nwo" content="sgcruiser/goit-js-hw-10-food-service" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="333174274" /><meta name="octolytics-dimension-repository_network_root_nwo" content="sgcruiser/goit-js-hw-10-food-service" />
 
 
 
-    <link rel="canonical" href="https://github.com/goitacademy/javascript-homework/blob/master/homework-10/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/sgcruiser/goit-js-hw-10-food-service/blob/main/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -179,7 +179,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="187316928" data-scoped-search-url="/goitacademy/javascript-homework/search" data-owner-scoped-search-url="/orgs/goitacademy/search" data-unscoped-search-url="/search" action="/goitacademy/javascript-homework/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="333174274" data-scoped-search-url="/sgcruiser/goit-js-hw-10-food-service/search" data-owner-scoped-search-url="/users/sgcruiser/search" data-unscoped-search-url="/search" action="/sgcruiser/goit-js-hw-10-food-service/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -197,7 +197,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="040anq9IvVAAvX/KPkUDdBRb3wB7VWypkDkkw0s/QwqPe84HNGmDf3KENpWZd0WX9b61pTSbw+KU9GZPgyza9A==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="2Eboe8T6n22i7cRZC/KYziGHwtlOjFCcJjFkbyTcSvWEsDziX9uhQtDUjQaswN4twGKofAFC/9ci/Cbj7M/TCw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -293,8 +293,8 @@
     </div>
 
     <div class="border rounded-1 flex-shrink-0 color-bg-tertiary px-1 color-text-tertiary ml-1 f6 d-none js-jump-to-badge-search">
-      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this organization">
-        In this organization
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user">
+        In this user
       </span>
       <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
         All GitHub
@@ -386,7 +386,7 @@
       <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/68034563?s=40&amp;v=4" width="20" height="20" alt="@grig-d" />
       grig-d
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hAUnxlIh0Vwhx7Bd3hz9gxeTIQkb7dn1wbfyZFnfRXeIo+s3DpAPodxl12sxI/wmUEZbi4N5vacAeH1/AneJ0Q==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AhNRHjRgjR2RF8OxTv7HF7+1yS4z3yE5OH1g+FgFRtoOtZ3vaNFT4Gy1pIehwcay+GCzrKtLRWv5su/jA62KfA==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -406,7 +406,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjgwMzQ1NjMiLCJ0IjoxNjE0NDUwNTQ0fQ==--a7e15fe990c31410cf55a7c702857786fa7285f9961dfd340f54619502b97843">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjgwMzQ1NjMiLCJ0IjoxNjE0NDUwODc0fQ==--67bc4cae646811865a64bb65b13b6e073882d4ceafaf4fb61afe012cc41ef30c">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -450,9 +450,9 @@
 
   <div role="none" class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="goitacademy/javascript-homework">This repository</span>
+    <span title="sgcruiser/goit-js-hw-10-food-service">This repository</span>
   </div>
-    <a role="menuitem" class="dropdown-item" href="/goitacademy/javascript-homework/issues/new/choose" data-ga-click="Header, create new issue" data-skip-pjax>
+    <a role="menuitem" class="dropdown-item" href="/sgcruiser/goit-js-hw-10-food-service/issues/new/choose" data-ga-click="Header, create new issue" data-skip-pjax>
       New issue
     </a>
 
@@ -542,9 +542,6 @@
       
 
 
-    
-
-
 
 
 
@@ -560,11 +557,11 @@
             <h1 class=" d-flex flex-wrap flex-items-center break-word f3 text-normal">
     <svg class="octicon octicon-repo color-text-secondary mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/goitacademy/hovercard" href="/goitacademy">goitacademy</a>
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/sgcruiser/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sgcruiser">sgcruiser</a>
     </span>
     <span class="mx-1 flex-self-stretch color-text-secondary">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#js-repo-pjax-container" class="" href="/goitacademy/javascript-homework">javascript-homework</a>
+    <a data-pjax="#js-repo-pjax-container" class="" href="/sgcruiser/goit-js-hw-10-food-service">goit-js-hw-10-food-service</a>
   </strong>
   
 </h1>
@@ -582,7 +579,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:187316928,&quot;originating_url&quot;:&quot;https://github.com/goitacademy/javascript-homework/blob/master/homework-10/README.md&quot;,&quot;user_id&quot;:68034563}}" data-hydro-click-hmac="2b3a87ba76d61f649f3a457c53cf287cab8bfe0d73d82fc01c5b9567eeeb370a" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:333174274,&quot;originating_url&quot;:&quot;https://github.com/sgcruiser/goit-js-hw-10-food-service/blob/main/README.md&quot;,&quot;user_id&quot;:68034563}}" data-hydro-click-hmac="5b27052e313c71c7fe4f18a36fcad586944f3d862e697dd7dd57fd5fa60ca639" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
               hidden
@@ -626,9 +623,9 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KUEnZxebsURwEZ0nrDM28QKhuQy5II7lX0XUgfwSeZPaEJSfzoX/exLc2nNlLa1dynS+0iQtDg+Q6Ac5qTecig==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="p8W6rZeGFNvcDZ3f5vs78/0Cz0f4vfJWM8AAyk5CRepUlAlVTpha5L7A2osv5aBfNdfImWWwcrz8bdNyG2eg8w==" />
 
-                <input type="hidden" name="repository_id" value="187316928">
+                <input type="hidden" name="repository_id" value="333174274">
 
                 <button
                   type="submit"
@@ -728,9 +725,9 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zuDzeJfx4tSCzBnEgxb1VaR3E9X21UicL2dU8S1l4Ag9sUCATu+s6+ABXpBKCG75bKIUC2vYyHbgyodJeEAFEQ==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="U/jlA4JHRdxsqYD3D7x6h5DRVXYZ+vLw348En8sxJ8igqVb7W1kL4w5kx6PGouErWARSqIT3choQItcnnhTC0Q==" />
 
-              <input type="hidden" name="repository_id" value="187316928">
+              <input type="hidden" name="repository_id" value="333174274">
 
               <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                 <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -852,11 +849,11 @@
         <div class="notifications-component-dialog-overlay"></div>
       </details>
         <a class="social-count"
-          href="/goitacademy/javascript-homework/watchers"
-          aria-label="4 users are watching this repository"
+          href="/sgcruiser/goit-js-hw-10-food-service/watchers"
+          aria-label="1 user is watching this repository"
           data-target="notifications-list-subscription-form.socialCount"
         >
-          4
+          1
         </a>
     </notifications-list-subscription-form>
 
@@ -864,37 +861,37 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/goitacademy/javascript-homework/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Xhq1NnL3Sc1pzIN6+Lc0503T3fGK54L6C0ijASxq9sxQy4A7ZZ5HUCN3rB85AGcO8at+zJVg6uy1C2Otpp1cMA==" />
+    <form class="starred js-social-form" action="/sgcruiser/goit-js-hw-10-food-service/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MPvF4GUcfV6hWSzf4sVMUjOLHP2NlZdPhd+WieEwQrZFZPnp0K+KPlxE8N3rEQBOY9ucFVsppaMFoQ3PFOLatQ==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar goitacademy/javascript-homework" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:187316928,&quot;originating_url&quot;:&quot;https://github.com/goitacademy/javascript-homework/blob/master/homework-10/README.md&quot;,&quot;user_id&quot;:68034563}}" data-hydro-click-hmac="35d1f1ee1b9dfb6a5c4f74d9e8f44191688aee1b61427cf0a5831fdda0889c5b" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar sgcruiser/goit-js-hw-10-food-service" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:333174274,&quot;originating_url&quot;:&quot;https://github.com/sgcruiser/goit-js-hw-10-food-service/blob/main/README.md&quot;,&quot;user_id&quot;:68034563}}" data-hydro-click-hmac="2dc24b68c5a6ba59794d9ef39fd24d58349eb296e66e9cc9bc626f51b3e7af63" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         <span>
           Unstar
-</span></button>        <a class="social-count js-social-count" href="/goitacademy/javascript-homework/stargazers"
-           aria-label="41 users starred this repository">
-           41
+</span></button>        <a class="social-count js-social-count" href="/sgcruiser/goit-js-hw-10-food-service/stargazers"
+           aria-label="0 users starred this repository">
+           0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/goitacademy/javascript-homework/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3uP3tVm5TD/mO3WDKlIt94/G1vIYwP0UEX0s5g4NsSFBGXgRk9/gLOLTYTe+bUMKwTytVLX7YkEh31ZNb2bHZQ==" />
+    <form class="unstarred js-social-form" action="/sgcruiser/goit-js-hw-10-food-service/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WrsQOvckxmpHzGqaI+0aXriIcO4IOmBalXP+pv5DhEIdycaiYphKeMCwKV1CBc9KS3JHyjc6GK5bar/2vZuY6Q==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star goitacademy/javascript-homework" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:187316928,&quot;originating_url&quot;:&quot;https://github.com/goitacademy/javascript-homework/blob/master/homework-10/README.md&quot;,&quot;user_id&quot;:68034563}}" data-hydro-click-hmac="2ee98ae8c2a727e4993cbacbad59f57b2b84837ed358ae3b91840125558e6272" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star sgcruiser/goit-js-hw-10-food-service" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:333174274,&quot;originating_url&quot;:&quot;https://github.com/sgcruiser/goit-js-hw-10-food-service/blob/main/README.md&quot;,&quot;user_id&quot;:68034563}}" data-hydro-click-hmac="8b28392d50f02a32e6647a71d76433c30edbd9b0707a4733fba47a68b7c53102" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         <span>
           Star
-</span></button>        <a class="social-count js-social-count" href="/goitacademy/javascript-homework/stargazers"
-           aria-label="41 users starred this repository">
-          41
+</span></button>        <a class="social-count js-social-count" href="/sgcruiser/goit-js-hw-10-food-service/stargazers"
+           aria-label="0 users starred this repository">
+          0
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/goitacademy/javascript-homework/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Lx5FCpKjp1SnTSP5K7jtoidqtZjUAav1O3/wWpfMGWsArY61XB+ehaR0TixZQdcdHDdlLVnjruYAnlVGPZ+PQA==" />
-              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:187316928,&quot;originating_url&quot;:&quot;https://github.com/goitacademy/javascript-homework/blob/master/homework-10/README.md&quot;,&quot;user_id&quot;:68034563}}" data-hydro-click-hmac="cf3157ba3892b1e54a3b4883732333a8a1bddb305001545a71f8b245ebfaa3cf" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of goitacademy/javascript-homework to your account" aria-label="Fork your own copy of goitacademy/javascript-homework to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/sgcruiser/goit-js-hw-10-food-service/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pJ24hb/mVM9HO+r9rVzm5L4OPc8u9gIXH9Lko0SfVe3xLIhEvwptH3ROfd+TqckTDiVfjyOj53xLjyJLwWeYsg==" />
+              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:333174274,&quot;originating_url&quot;:&quot;https://github.com/sgcruiser/goit-js-hw-10-food-service/blob/main/README.md&quot;,&quot;user_id&quot;:68034563}}" data-hydro-click-hmac="9fd9c0b41c661daf6811ecfb7be050e1e5807149a3fb860bf3009db38f53e3b2" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of sgcruiser/goit-js-hw-10-food-service to your account" aria-label="Fork your own copy of sgcruiser/goit-js-hw-10-food-service to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
                 Fork
 </button></form>
-      <a href="/goitacademy/javascript-homework/network/members" class="social-count"
-         aria-label="520 users forked this repository">
-        520
+      <a href="/sgcruiser/goit-js-hw-10-food-service/network/members" class="social-count"
+         aria-label="0 users forked this repository">
+        0
       </a>
   </li>
 </ul>
@@ -904,7 +901,7 @@
 <nav aria-label="Repository" data-pjax="#js-repo-pjax-container" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5 bg-gray-light">
   <ul class="UnderlineNav-body list-style-none ">
           <li class="d-flex">
-        <a class="js-selected-navigation-item selected UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i0code-tab" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /goitacademy/javascript-homework" href="/goitacademy/javascript-homework">
+        <a class="js-selected-navigation-item selected UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i0code-tab" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /sgcruiser/goit-js-hw-10-food-service" href="/sgcruiser/goit-js-hw-10-food-service">
               <svg class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path></svg>
             <span data-content="Code">Code</span>
               <span title="Not available" class="Counter "></span>
@@ -912,7 +909,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i1issues-tab" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-selected-links="repo_issues repo_labels repo_milestones /goitacademy/javascript-homework/issues" href="/goitacademy/javascript-homework/issues">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i1issues-tab" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-selected-links="repo_issues repo_labels repo_milestones /sgcruiser/goit-js-hw-10-food-service/issues" href="/sgcruiser/goit-js-hw-10-food-service/issues">
               <svg class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"></path></svg>
             <span data-content="Issues">Issues</span>
               <span title="0" hidden="hidden" class="Counter ">0</span>
@@ -920,7 +917,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i2pull-requests-tab" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-selected-links="repo_pulls checks /goitacademy/javascript-homework/pulls" href="/goitacademy/javascript-homework/pulls">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i2pull-requests-tab" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-selected-links="repo_pulls checks /sgcruiser/goit-js-hw-10-food-service/pulls" href="/sgcruiser/goit-js-hw-10-food-service/pulls">
               <svg class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path></svg>
             <span data-content="Pull requests">Pull requests</span>
               <span title="0" hidden="hidden" class="Counter ">0</span>
@@ -928,7 +925,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i3actions-tab" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-selected-links="repo_actions /goitacademy/javascript-homework/actions" href="/goitacademy/javascript-homework/actions">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i3actions-tab" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-selected-links="repo_actions /sgcruiser/goit-js-hw-10-food-service/actions" href="/sgcruiser/goit-js-hw-10-food-service/actions">
               <svg class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path></svg>
             <span data-content="Actions">Actions</span>
               <span title="Not available" class="Counter "></span>
@@ -936,7 +933,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i4projects-tab" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-selected-links="repo_projects new_repo_project repo_project /goitacademy/javascript-homework/projects" href="/goitacademy/javascript-homework/projects">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i4projects-tab" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-selected-links="repo_projects new_repo_project repo_project /sgcruiser/goit-js-hw-10-food-service/projects" href="/sgcruiser/goit-js-hw-10-food-service/projects">
               <svg class="octicon octicon-project UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
             <span data-content="Projects">Projects</span>
               <span title="0" hidden="hidden" class="Counter ">0</span>
@@ -944,7 +941,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i5wiki-tab" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-selected-links="repo_wiki /goitacademy/javascript-homework/wiki" href="/goitacademy/javascript-homework/wiki">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i5wiki-tab" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-selected-links="repo_wiki /sgcruiser/goit-js-hw-10-food-service/wiki" href="/sgcruiser/goit-js-hw-10-food-service/wiki">
               <svg class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path></svg>
             <span data-content="Wiki">Wiki</span>
               <span title="Not available" class="Counter "></span>
@@ -952,15 +949,15 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i6security-tab" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-selected-links="security overview alerts policy token_scanning code_scanning /goitacademy/javascript-homework/security" href="/goitacademy/javascript-homework/security">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i6security-tab" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-selected-links="security overview alerts policy token_scanning code_scanning /sgcruiser/goit-js-hw-10-food-service/security" href="/sgcruiser/goit-js-hw-10-food-service/security">
               <svg class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path></svg>
             <span data-content="Security">Security</span>
-              <include-fragment src="/goitacademy/javascript-homework/security/overall-count" accept="text/fragment+html"></include-fragment>
+              <include-fragment src="/sgcruiser/goit-js-hw-10-food-service/security/overall-count" accept="text/fragment+html"></include-fragment>
 </a>
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i7insights-tab" data-ga-click="Repository, Navigation click, Insights tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /goitacademy/javascript-homework/pulse" href="/goitacademy/javascript-homework/pulse">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i7insights-tab" data-ga-click="Repository, Navigation click, Insights tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /sgcruiser/goit-js-hw-10-food-service/pulse" href="/sgcruiser/goit-js-hw-10-food-service/pulse">
               <svg class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path></svg>
             <span data-content="Insights">Insights</span>
               <span title="Not available" class="Counter "></span>
@@ -980,35 +977,35 @@
   
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /goitacademy/javascript-homework" href="/goitacademy/javascript-homework">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /sgcruiser/goit-js-hw-10-food-service" href="/sgcruiser/goit-js-hw-10-food-service">
                     Code
 </a>                </li>
                 <li data-menu-item="i1issues-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /goitacademy/javascript-homework/issues" href="/goitacademy/javascript-homework/issues">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /sgcruiser/goit-js-hw-10-food-service/issues" href="/sgcruiser/goit-js-hw-10-food-service/issues">
                     Issues
 </a>                </li>
                 <li data-menu-item="i2pull-requests-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /goitacademy/javascript-homework/pulls" href="/goitacademy/javascript-homework/pulls">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /sgcruiser/goit-js-hw-10-food-service/pulls" href="/sgcruiser/goit-js-hw-10-food-service/pulls">
                     Pull requests
 </a>                </li>
                 <li data-menu-item="i3actions-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /goitacademy/javascript-homework/actions" href="/goitacademy/javascript-homework/actions">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /sgcruiser/goit-js-hw-10-food-service/actions" href="/sgcruiser/goit-js-hw-10-food-service/actions">
                     Actions
 </a>                </li>
                 <li data-menu-item="i4projects-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /goitacademy/javascript-homework/projects" href="/goitacademy/javascript-homework/projects">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /sgcruiser/goit-js-hw-10-food-service/projects" href="/sgcruiser/goit-js-hw-10-food-service/projects">
                     Projects
 </a>                </li>
                 <li data-menu-item="i5wiki-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /goitacademy/javascript-homework/wiki" href="/goitacademy/javascript-homework/wiki">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /sgcruiser/goit-js-hw-10-food-service/wiki" href="/sgcruiser/goit-js-hw-10-food-service/wiki">
                     Wiki
 </a>                </li>
                 <li data-menu-item="i6security-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /goitacademy/javascript-homework/security" href="/goitacademy/javascript-homework/security">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /sgcruiser/goit-js-hw-10-food-service/security" href="/sgcruiser/goit-js-hw-10-food-service/security">
                     Security
 </a>                </li>
                 <li data-menu-item="i7insights-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /goitacademy/javascript-homework/pulse" href="/goitacademy/javascript-homework/pulse">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /sgcruiser/goit-js-hw-10-food-service/pulse" href="/sgcruiser/goit-js-hw-10-food-service/pulse">
                     Insights
 </a>                </li>
             </ul>
@@ -1031,9 +1028,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/goitacademy/javascript-homework/blob/8067163f2be3fa5baf2d7c3083e0b2ba6350c31d/homework-10/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sgcruiser/goit-js-hw-10-food-service/blob/603219bc0e9709ee452e18a196482f11eb84abd8/README.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:86c17e3820a24271a607cad93863c023ac39b57c1b0dbaecbcf3439259790402 -->
+    <!-- blob contrib key: blob_contributors:v22:939690916f39b6dbdea8ab5cb0c501da792bfec0eeabd9531c8cc00227fa2fde -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1043,7 +1040,7 @@
             data-hotkey="w"
             title="Switch branches or tags">
       <svg class="octicon octicon-git-branch text-gray" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path></svg>
-      <span class="css-truncate-target" data-menu-button>master</span>
+      <span class="css-truncate-target" data-menu-button>main</span>
       <span class="dropdown-caret"></span>
     </summary>
 
@@ -1084,12 +1081,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/goitacademy/javascript-homework/refs"
+            query-endpoint="/sgcruiser/goit-js-hw-10-food-service/refs"
             
-            cache-key="v0:1558156187.0"
-            current-committish="bWFzdGVy"
-            default-branch="bWFzdGVy"
-            name-with-owner="Z29pdGFjYWRlbXkvamF2YXNjcmlwdC1ob21ld29yaw=="
+            cache-key="v0:1611687430.0"
+            current-committish="bWFpbg=="
+            default-branch="bWFpbg=="
+            name-with-owner="c2djcnVpc2VyL2dvaXQtanMtaHctMTAtZm9vZC1zZXJ2aWNl"
           >
 
             <template data-target="ref-selector.noMatchTemplate">
@@ -1109,13 +1106,13 @@
             </div>
 
             <template data-target="ref-selector.itemTemplate">
-              <a href="https://github.com/goitacademy/javascript-homework/blob/{{ urlEncodedRefName }}/homework-10/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+              <a href="https://github.com/sgcruiser/goit-js-hw-10-food-service/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
                 <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
                 <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
                 <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span> 
               </a>
             </template>
-            <footer class="SelectMenu-footer"><a href="/goitacademy/javascript-homework/branches">View all branches</a></footer>
+            <footer class="SelectMenu-footer"><a href="/sgcruiser/goit-js-hw-10-food-service/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -1129,11 +1126,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/goitacademy/javascript-homework/refs"
-            cache-key="v0:1558156187.0"
-            current-committish="bWFzdGVy"
-            default-branch="bWFzdGVy"
-            name-with-owner="Z29pdGFjYWRlbXkvamF2YXNjcmlwdC1ob21ld29yaw=="
+            query-endpoint="/sgcruiser/goit-js-hw-10-food-service/refs"
+            cache-key="v0:1611687430.0"
+            current-committish="bWFpbg=="
+            default-branch="bWFpbg=="
+            name-with-owner="c2djcnVpc2VyL2dvaXQtanMtaHctMTAtZm9vZC1zZXJ2aWNl"
           >
 
             <template data-target="ref-selector.noMatchTemplate">
@@ -1141,7 +1138,7 @@
             </template>
 
             <template data-target="ref-selector.itemTemplate">
-              <a href="https://github.com/goitacademy/javascript-homework/blob/{{ urlEncodedRefName }}/homework-10/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+              <a href="https://github.com/sgcruiser/goit-js-hw-10-food-service/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
                 <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
                 <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
                 <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span>
@@ -1157,7 +1154,7 @@
 </svg>
               </div>
             </div>
-            <footer class="SelectMenu-footer"><a href="/goitacademy/javascript-homework/tags">View all tags</a></footer>
+            <footer class="SelectMenu-footer"><a href="/sgcruiser/goit-js-hw-10-food-service/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -1170,9 +1167,9 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/goitacademy/javascript-homework"><span>javascript-homework</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/goitacademy/javascript-homework/tree/master/homework-10"><span>homework-10</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/sgcruiser/goit-js-hw-10-food-service"><span>goit-js-hw-10-food-service</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
       </h2>
-      <a href="/goitacademy/javascript-homework/find/master"
+      <a href="/sgcruiser/goit-js-hw-10-food-service/find/main"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
             data-pjax
             data-hotkey="t">
@@ -1185,7 +1182,7 @@
 </summary>  <div>
     <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:187316928,&quot;originating_url&quot;:&quot;https://github.com/goitacademy/javascript-homework/blob/master/homework-10/README.md&quot;,&quot;user_id&quot;:68034563}}" data-hydro-click-hmac="dc8853ddaef67a6b91433384b1edd704a67380051c9f6e6f91b4f6184a39c041" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/goitacademy/javascript-homework/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:333174274,&quot;originating_url&quot;:&quot;https://github.com/sgcruiser/goit-js-hw-10-food-service/blob/main/README.md&quot;,&quot;user_id&quot;:68034563}}" data-hydro-click-hmac="21539916fafa36647ab0d1065e47caa70b604e549e7f953763334b72e3c84d5b" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/sgcruiser/goit-js-hw-10-food-service/find/main">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -1199,7 +1196,7 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="homework-10/README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
@@ -1209,7 +1206,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/goitacademy/javascript-homework/contributors/master/homework-10/README.md" class="commit-loader">
+      <include-fragment src="/sgcruiser/goit-js-hw-10-food-service/contributors/main/README.md" class="commit-loader">
         <div class="Box-header Box-header--blue d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1232,34 +1229,34 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      101 lines (82 sloc)
+      92 lines (75 sloc)
       <span class="file-info-divider"></span>
-    4.97 KB
+    4.68 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a href="/goitacademy/javascript-homework/raw/master/homework-10/README.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/goitacademy/javascript-homework/blame/master/homework-10/README.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+      <a href="/sgcruiser/goit-js-hw-10-food-service/raw/main/README.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
+        <a href="/sgcruiser/goit-js-hw-10-food-service/blame/main/README.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
     </div>
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/goitacademy/javascript-homework?branch=master&amp;filepath=homework-10%2FREADME.md"
+             href="x-github-client://openRepo/https://github.com/sgcruiser/goit-js-hw-10-food-service?branch=main&amp;filepath=README.md"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/goitacademy/javascript-homework/edit/master/homework-10/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9CvYtxu1hJwwWvvqBohxBSTh0YkboK58pTvjo8+TedzmrOmW6DwbXMv1FK2Fzt4RNKxrqOMwZA7rGj5Z2tz3Cw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/sgcruiser/goit-js-hw-10-food-service/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cXtSn3yZac61zvZd1ieRrpC6A4aaRIgTAM211P4fGMuwjwtUi3uy1MdilUsIItci6VF6APc984MF15DNaud40w==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/goitacademy/javascript-homework/delete/master/homework-10/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SXtZd1XQ7EtLCIyW5Ev6AtUS+bX1+RCPxKlpzSCogLTqDUxGbCC6RE9BjtPx6rc+hWTrXqKFCRT4GB2l7VGjPg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/sgcruiser/goit-js-hw-10-food-service/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MVIAJ1MJPcucMwEmUD0b4NfIEOdB2sv8Wv0Al/i/pJbH1q44t075nYyXeP9D1zcnceyKzN2CQHjUrsT7h3pzyQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -1270,51 +1267,38 @@
 
       
   <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><p><strong>Читать на других языках: <a href="/goitacademy/javascript-homework/blob/master/homework-10/README.md">Русский</a>, <a href="/goitacademy/javascript-homework/blob/master/homework-10/README.ua.md">Українська</a>.</strong></p>
-<h1><a id="user-content-критерии-приема" class="anchor" aria-hidden="true" href="#критерии-приема"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Критерии приема</h1>
-<ul>
-<li>Создан репозиторий <code>goit-js-hw-10-food-service</code>.</li>
-<li>При сдаче домашней работы есть две ссылки: на исходные файлы и рабочую
-страницу на GitHub Pages.</li>
-<li>При посещении рабочей страницы (GitHub Pages) задания, в консоли нету ошибок и
-предупреждений.</li>
-<li>Имена переменных и функций понятные, описательные.</li>
-<li>Проект собран с помощью <code>Webpack</code> или <code>Parceljs</code>.</li>
-<li>Код отформатирован <code>Prettier</code>.</li>
-</ul>
-<h1><a id="user-content-задание" class="anchor" aria-hidden="true" href="#задание"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Задание</h1>
-<p>Создай страницу меню с возможностью выбора темы для сервиса заказа еды.
-<a href="https://take.ms/RxIlv" rel="nofollow">Ссылка на демо видео</a>.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/goitacademy/javascript-homework/blob/master/homework-10/preview.jpg"><img src="/goitacademy/javascript-homework/raw/master/homework-10/preview.jpg" alt="Превью страницы" style="max-width:100%;"></a></p>
-<ul>
-<li>Обязательно используй <code>Webpack</code> или <code>Parceljs</code> для сборки и деплоя (
-<a href="https://github.com/luxplanjay/webpack-starter-kit">ссылка на готовую сборку Webpack</a>)</li>
-<li>В папке <a href="/goitacademy/javascript-homework/blob/master/homework-10/src">src</a> ты найдешь стартовую разметку, стили и данные</li>
-<li>Массив объектов блюд лежит в <a href="/goitacademy/javascript-homework/blob/master/homework-10/src/menu.json">menu.json</a></li>
-</ul>
-<h2><a id="user-content-тема" class="anchor" aria-hidden="true" href="#тема"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Тема</h2>
-<p>Добавь функционал изменения темы при нажатии (событие <code>change</code>) на чекбокс
-<code>#theme-switch-toggle</code> в тулбаре.</p>
-<ul>
-<li>По умолчанию тема светлая.</li>
-<li>При изменении темы, необходимо добавлять на элемент <code>body</code> класс <code>light-theme</code>
-или <code>dark-theme</code>.</li>
-<li>Выбранная тема должна сохраняться между перезагрузками страницы. Для хранения
-темы используй <code>localStorage</code>.</li>
-<li>Если при загрузке страницы тема тёмная, не забудь поставить свойство <code>checked</code>
-у чекбокса <code>#theme-switch-toggle</code> в <code>true</code>, чтобы ползунок сдвинулся в
-правильное положение.</li>
-</ul>
-<p>Для удобства хранения списка тем используй такое перечисление.</p>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h2><a id="user-content-goit-js-hw-10-food-service" class="anchor" aria-hidden="true" href="#goit-js-hw-10-food-service"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>goit-js-hw-10-food-service</h2>
+<h3><a id="user-content-критерии-приема" class="anchor" aria-hidden="true" href="#критерии-приема"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Критерии приема</h3>
+<p>Создан репозиторий goit-js-hw-10-food-service. При сдаче домашней работы есть
+две ссылки: на исходные файлы и рабочую страницу на GitHub Pages. При посещении
+рабочей страницы (GitHub Pages) задания, в консоли нету ошибок и предупреждений.
+Имена переменных и функций понятные, описательные. Проект собран с помощью
+Webpack или Parceljs. Код отформатирован Prettier.</p>
+<h3><a id="user-content-задание" class="anchor" aria-hidden="true" href="#задание"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Задание</h3>
+<p>Создай страницу меню с возможностью выбора темы для сервиса заказа еды. Ссылка
+на демо видео.</p>
+<p>Обязательно используй Webpack или Parceljs для сборки и деплоя (
+<a href="https://github.com/luxplanjay/webpack-starter-kit">ссылка на готовую сборку Webpack</a>)
+В папке src ты найдешь стартовую разметку, стили и данные Массив объектов блюд
+лежит в menu.json</p>
+<h3><a id="user-content-тема" class="anchor" aria-hidden="true" href="#тема"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Тема</h3>
+<p>Добавь функционал изменения темы при нажатии (событие change) на чекбокс
+#theme-switch-toggle в тулбаре.</p>
+<p>По умолчанию тема светлая. При изменении темы, необходимо добавлять на элемент
+body класс light-theme или dark-theme. Выбранная тема должна сохраняться между
+перезагрузками страницы. Для хранения темы используй localStorage. Если при
+загрузке страницы тема тёмная, не забудь поставить свойство checked у чекбокса
+#theme-switch-toggle в true, чтобы ползунок сдвинулся в правильное положение.
+Для удобства хранения списка тем используй такое перечисление.</p>
 <div class="highlight highlight-source-js"><pre><span class="pl-k">const</span> <span class="pl-v">Theme</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
   <span class="pl-c1">LIGHT</span>: <span class="pl-s">'light-theme'</span><span class="pl-kos">,</span>
   <span class="pl-c1">DARK</span>: <span class="pl-s">'dark-theme'</span><span class="pl-kos">,</span>
 <span class="pl-kos">}</span><span class="pl-kos">;</span></pre></div>
-<h2><a id="user-content-шаблонизация" class="anchor" aria-hidden="true" href="#шаблонизация"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Шаблонизация</h2>
-<p>Используя шаблонизатор <a href="https://handlebarsjs.com/" rel="nofollow">Handlebars</a> создай шаблон
-одного элемента меню. После чего, используя шаблон, создай разметку всего меню
-по данным из <a href="/goitacademy/javascript-homework/blob/master/homework-10/src/menu.json">menu.json</a> и добавь в DOM в <code>ul.js-menu</code>.</p>
-<p>Для иконок используется библиотека <code>Material Icons</code>, линк на веб-фонт уже есть в
+<h3><a id="user-content-шаблонизация" class="anchor" aria-hidden="true" href="#шаблонизация"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Шаблонизация</h3>
+<p>Используя шаблонизатор Handlebars создай шаблон одного элемента меню. После
+чего, используя шаблон, создай разметку всего меню по данным из menu.json и
+добавь в DOM в ul.js-menu.</p>
+<p>Для иконок используется библиотека Material Icons, линк на веб-фонт уже есть в
 исходном HTML.</p>
 <p>Ниже указана разметка элемента меню которая должна получаться по шаблону (данные
 будут разные для каждого объекта).</p>
@@ -1375,12 +1359,12 @@
 
     <div class="Popover anim-scale-in js-tagsearch-popover"
      hidden
-     data-tagsearch-url="/goitacademy/javascript-homework/find-definition"
-     data-tagsearch-ref="master"
-     data-tagsearch-path="homework-10/README.md"
+     data-tagsearch-url="/sgcruiser/goit-js-hw-10-food-service/find-definition"
+     data-tagsearch-ref="main"
+     data-tagsearch-path="README.md"
      data-tagsearch-lang="Markdown"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:187316928,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/goitacademy/javascript-homework/blob/master/homework-10/README.md&quot;,&quot;user_id&quot;:68034563}}"
-     data-hydro-click-hmac="d84d6ada2d0cd325d588900586d21c81dad617745f1010801c1c9d0f9d14fe6c">
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:333174274,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/sgcruiser/goit-js-hw-10-food-service/blob/main/README.md&quot;,&quot;user_id&quot;:68034563}}"
+     data-hydro-click-hmac="2dcf61f6aa2fe9afacd1c2afe0402bcc8bfa035a5c48f1858d84e3db0f4c48fe">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
     </div>
