@@ -1,6 +1,9 @@
 import './styles.css';
 
 // 
+// click on button
+// toggle classList
+// 
 setUpTheme();
 
 function setUpTheme() {
