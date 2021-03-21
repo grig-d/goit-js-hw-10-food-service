@@ -35,8 +35,8 @@ function setUpTheme() {
   }
 }
 
-// Templating with Handlebars
-const markup = menu.map(item => menuTemplate(item)).join('');
+// // Templating with Handlebars
+const markup = menuTemplate(menu);
 refs.menuList.insertAdjacentHTML('beforeend', markup);
 
 // TASK // ------------------------------------------------------------------------
