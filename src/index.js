@@ -1,6 +1,5 @@
 import './styles.css';
-import menuTemplate from './templates/menu.hbs';
-import menu from './menu.json';
+import markup from './js/markup.js';
 
 const refs = {
   body: document.querySelector('body'),
@@ -35,8 +34,7 @@ function setUpTheme() {
   }
 }
 
-// // Templating with Handlebars
-const markup = menuTemplate(menu);
+// add markup to DOM
 refs.menuList.insertAdjacentHTML('beforeend', markup);
 
 // TASK // ------------------------------------------------------------------------
